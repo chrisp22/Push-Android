@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/WORKSPACE/library/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Zed/AndroidStudioProjects/Push-Android/library/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <attr format="boolean" name="centered"/>
     <attr format="color" name="selectedColor"/>
@@ -11,9 +11,9 @@
     <bool name="default_line_indicator_centered">true</bool>
     <bool name="default_title_indicator_selected_bold">true</bool>
     <bool name="default_underline_indicator_fades">true</bool>
-    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_fill_color">#FF2196F3</color>
     <color name="default_circle_indicator_page_color">#00000000</color>
-    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="default_circle_indicator_stroke_color">#FF1976D2</color>
     <color name="default_line_indicator_selected_color">#FF33B5E5</color>
     <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
     <color name="default_title_indicator_footer_color">#FF33B5E5</color>
